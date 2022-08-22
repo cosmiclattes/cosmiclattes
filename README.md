@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi 👋, I'm <script>alert('cosmiclattes-0')</script>
 
-<!--
-**cosmiclattes/cosmiclattes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Writings
 
-Here are some ideas to get you started:
+* [Linus's linux story](https://aviyel.com/post/29)
+* [More Writings...](https://aviyel.com/search?term=\*&uid=6&root=blog)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Achievements
+
+### cosmichouse - Level 5
+
+[View my contribution log](https://aviyel.com/user/shootingstar/31/rewards?log)
+
+![cosmichouse rewards](https://aviyel.com/assets/uploads/rewards/share/user/6/readme/31.png)
+
+### aviyelverse - Level 1
+
+[View my contribution log](https://aviyel.com/user/shootingstar/54/rewards?log)
+
+![aviyelverse rewards](https://aviyel.com/assets/uploads/rewards/share/user/6/readme/54.png)
+
+## Social Links
+[Aviyel](https://aviyel.com/@shootingstar)
+
+
+
